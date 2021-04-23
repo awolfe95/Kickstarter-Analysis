@@ -8,11 +8,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### This analysis compares successful, failed, and canceled campaigns over time to see if there are any patterns or times of year that campaigns do better than others. To do this, I filtered to only show theater campaigns and created a line chart that had the months on the x-axis, number of campaigns on the y-axis, and three lines showing the successful, failed, and canceled campaigns. ![Theater_Outcomes_vs_Launch] (resources/Theater_Outcomes_vs_Launch.png). 
+#### This analysis compares successful, failed, and canceled campaigns over time to see if there are any patterns or times of year that campaigns do better than others. To do this, I filtered to only show theater campaigns and created a line chart that had the months on the x-axis, number of campaigns on the y-axis, and three lines showing the successful, failed, and canceled campaigns. ![Theater_Outcomes_vs_Launch] (https://github.com/awolfe95/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png). 
 
 ### Analysis of Outcomes Based on Goals
 
-#### This analysis compares the outcomes of campaigns based on their fundraising goal to see if there are patterns related to how low or high a campaign's goal is and its outcome. I did this by creating goal ranges and then finding the number of campaigns that matched the criteria I was looking for (i.e. outcome, goal range, plays). I then determined the total projects for each goal range and used that to find a percentage successful, failed, and canceled for each goal range. Finally, I transformed this data into a line chart, with the goal range on the x-axis, percentage on the y-axis, and the campaign outcomes as three lines. ![Outcomes_vs_Goals] (resources/Outcomes_vs_Goals.png).
+#### This analysis compares the outcomes of campaigns based on their fundraising goal to see if there are patterns related to how low or high a campaign's goal is and its outcome. I did this by creating goal ranges and then finding the number of campaigns that matched the criteria I was looking for (i.e. outcome, goal range, plays). I then determined the total projects for each goal range and used that to find a percentage successful, failed, and canceled for each goal range. Finally, I transformed this data into a line chart, with the goal range on the x-axis, percentage on the y-axis, and the campaign outcomes as three lines. ![Outcomes_vs_Goals] (https://github.com/awolfe95/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png).
 
 ### Challenges and Difficulties Encountered
 
